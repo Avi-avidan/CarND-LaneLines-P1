@@ -23,7 +23,9 @@ The goals / steps of this project are the following:
 
 My pipeline consisted of 7 steps, as following -
 1. RGB threshold (function: 'color_thresh'), basically keeping only pixles with R values over 210
+
 ![alt text][image1]
+
 2. Identifying canny edges in a region of interest (function: 'get_masked_edges'), using these steps -
     2.a. function 'grayscale' (cv2.cvtColor) (possibly redundant after color threshold)
 ![alt text][image2]
