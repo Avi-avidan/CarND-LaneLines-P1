@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: https://github.com/Avi-avidan/CarND-LaneLines-P1/blob/master/pipeline_imgs/solidWhiteCurve_1_RGB_threshold_edges.jpg
 
 ---
 
